@@ -1,4 +1,5 @@
 {
+  "private": "true",
   "name": "node-examples",
   "version": "1.0.0",
   "description": "Simple Node Examples",
